@@ -15,7 +15,7 @@ linestretch:
  - 1.5
 geometry: 
  - margin=3cm
-...
+---
 
 
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a ullamcorper tortor. Etiam ut est eu leo convallis dapibus sed vitae purus. Duis vulputate quam quis nibh semper, rutrum aliquam eros dapibus. Integer ornare nulla ac odio pellentesque, nec commodo purus sollicitudin. Donec congue pulvinar imperdiet. Nam in felis ornare, maximus odio fermentum, lobortis risus. Nunc varius, sem non congue rutrum, sem nisi dapibus massa, vel mollis neque lacus eget arcu. Integer dapibus dolor rhoncus, mattis elit a, finibus eros. Donec ut ullamcorper lacus. Duis facilisis ante eget lorem finibus facilisis. Quisque ultricies, est eget feugiat sollicitudin, nibh nisl fringilla nibh, eget elementum purus risus id magna. Sed dictum luctus varius. Aenean pulvinar urna vitae justo dignissim consequat. Duis at eros velit. Suspendisse nec odio auctor, iaculis leo eget, cursus purus. In vestibulum pulvinar malesuada.
