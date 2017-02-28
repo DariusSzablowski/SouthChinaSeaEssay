@@ -17,21 +17,40 @@ geometry:
  - margin=3cm
 ---
 
-![Die Gebietsansprüche im Südchinesischen Meer](South_China_Sea_claims_map.jpg){ height=95% }
-
-\clearpage
+![Die Gebietsansprüche im Südchinesischen Meer](South_China_Sea_claims_map.jpg){ height=80% }
 
 # Ein Überblick über die bisherige Lage
+
+\clearpage
 
 ## Geschichtliches und alte Verträge
 
 Die Inseln im Südchinesische Meer waren die längste Zeit unbewohnt und 
 obwohl es alte chinesische Aufzeichnungen über sie gibt und altertümliche chinesische
 Objekte in der Gegend gefunden wurden, beginnt die Geschichte des Konfliktes erst nach dem
-zweiten Weltkrieg. Hierbei geht es vor allem um zwei Inselgruppen, die Paracel
-und die Spratly Inseln.
+zweiten Weltkrieg. Hierbei geht es vor allem um zwei Inselgruppen, die Paracel Inseln,
+die im Norden liegen und von China, Vietnam und Taiwan beansprucht werden, sowied ie Spratly Inseln, die im Süden liegen und von Brunei, den Philippinen und Malaysia beansprucht werden.
 
+Nach Vietnams Auffassung sind die Paracel Inseln Teil ihres Territoriums, da sie wie
+Vietnam unter französischer Kolonialherrschaft standen. Außerdem wurden diese von Frankreich
+nach dem Ende des zweiten Weltkrieges auch an Vietnam zurückgegeben. 
+Die zuerst friedliche Aufteilung der Inseln begann um 1970. Das bisher einzige Gefecht
+gab es 1974 als China die Paracel Inseln unter seine Kontrolle brachte, 
+die sie auch immernoch besitzen.
 
+Ab 1990 gab es multilaterale Gespräche zwischen Mitgliedern von ASEAN (dem Verband 
+Südostasiatischer Nationen), da bilaterale Gespräche schnell zu Spannungen
+mit den nicht an den Gesprächen beteiligten Nationen führen könnten und
+außerdem Chinas Machtposition stärken würden. China erklärte, dass es an der 
+Beilegung des Konfliktes interessiert sei, allerdings bilaterale Gespräche vorziehen würde.
+Außerdem behielt es trotz Beteuerungen eine aggressive Außenpolitik bei und nahm zum Beispiel
+1994 das Meiji Jiao Atoll, das Teil der Spratly Inseln ist, ein.
+
+Jedes Land hat laut Seerechtsübereinkommen der Vereinten Nationen es eine 
+Ausschließliche Wirtschaftszone von 370 km um seine Küsten herum, 
+in der es unbeschränkt Ressourcen ausbeuten darf.
+Dieses gilt auch für bewohnbare Inseln, nicht aber für Felsen.
+Diese Regel gilt zwar auch für Inseln, nicht aber für Felsen und so entschied 2016 der Ständige Schiedshof in Den Haag das Chinas Neun-Striche-Linie keine Legitimität besitzt.
 
 ## Strategische Machtinteressen
  
@@ -54,7 +73,7 @@ genügen die Gebiete welche der VR. China zugeschrieben werden nicht um das
 Land vollständig zu versorgen, daher ist man dort momentan auf Fischexporte von 
 Vietnam angewiesen. Diese Umstände lassen erkennen, dass eine Kontrolle der VR.
 China über Großteile dieses Gebietes einen enormen Anstieg der wirtschaftlichen 
-Macht derselbigen bedeutet. Für die anderen Beteiligten Parteien wäre dies ein sehr 
+Macht derselbigen bedeutet. Für die anderen beteiligten Parteien wäre dies ein sehr 
 unangenehmer Umstand, da dies nicht nur einen Rückgang ihrer Wirtschaftsmacht 
 sondern auch eine höhere Abhängigkeit von der VR. China bedeuten würde. Somit 
 wäre die ökonomische Machtzunahme der VR. China enorm, jedoch ist dies nicht der
@@ -79,6 +98,7 @@ sich China hinweg.
 # Mögliche Lösungen
 
 
+
 # Quellen 
 
  - Anton:
@@ -87,48 +107,13 @@ sich China hinweg.
     - https://de.wikipedia.org/wiki/ASEAN
     - https://en.wikipedia.org/wiki/Territorial_disputes_in_the_South_China_Sea
     - https://en.wikipedia.org/wiki/Philippines_v._China
+    - http://www.zeit.de/politik/ausland/2016-07/china-philippinen-den-haag-schiedshof-suedchinesisches-meer
+    - http://www.zeit.de/politik/ausland/2016-07/china-hat-keinen-gebietsanspruch-auf-inseln-im-suedchinesischen-meer
 
 # Notizen
 
- - Es wurden Altertümliche Chinesische Objekte in der Gegend gefunden.
- - Außerdem gibt es historische Aufzeichnungen
- - 1947: China attackiert Vietnamesische Streitkräfte wg. Paracel-Inseln
-     - Strategische Machtinteressen
-
- - UN Seerecht -> 370 km Wirtschaftszone, auch um Inseln herum (-> hier nur 12 Meilen?).
-   Ob dieses auch für unbewohnte Korallenriffe und Felsbrocken gilt, ist nicht definiert.
-   Außerdem ist die Frage von sich überschneidenden Wirtschaftszonen ein Problem.
-
- - Vietnam sieht die Paracel-Inseln als Teil Vietnams, da wie Vietnam Teil des
-   ehemaligen französischen Territoriums. Außerdem hat Frankreich diese
-   an Vietnam nach dem zweiten Weltkrieg zurück gegeben.
  - Vietnam hat diesen Standpunkt weiter beibehalten, obwohl diese seit
    1974 von China kontrolliert werden. Seitdem gab es keine Gefechte.
-   
- - Die Paracel-Inseln werden von China, Vietnam und Taiwan beansprucht.
-   Sie liegen im nordwestlichen Teil des Südchinesischen Meers und besitzen
-   vor allem strategische Bedeutung. Die andere Inselgruppe sind die Spratly-Inseln,
-   welche im Süden liegen. Hier geht es auch um die Kontrolle der Schiffsverbindungen
-   (siehe unten). Diese werden neben den genannten auch von Brunei, den Philippinen
-   und Malaysia beansprucht.
-
- - Die Aufteilung der Inseln begann 1970. Anders als die anderen Nationen
-   benutzte China aber auch einmal Gewalt um eine Inselgruppe unter seine
-   Kontrolle zu bringen und beansprucht das größte Territorium, was Chinas
-   Ansehen schadete und zu Ängsten vor einem Krieg führt.
-
- - Ab 1990 gab es multilaterale Gespräche zwischen Mitgliedern von ASEAN (dem Verband 
-   Südostasiatischer Nationen), da bilaterale Gespräche schnell zu Spannungen
-   mit den nicht an den Gesprächen beteiligten Nationen führen könnten und
-   außerdem Chinas Machtposition stärken würden. An diesen nahm China jedoch nicht teil.
-   Recherche: Nahm China an den Gesprächen teil? -> Nochmal recherchieren!
-  
- - China nahm an diesen Gesprächen zuerst nicht teil, erklärte dann aber noch im selben
-   Jahr das es an der Beilegung des Konfliktes interessiert sei. Allerdings würden 
-   sie bilaterale Gespräche vorziehen und sähen die multilateralen Verhandlungen als
-   nicht-bindende Beratungen. 1995 gab China an, den gesamten Konflikt durch 
-   friedliche Diskussion beilegen zu wollen, behielt aber eine aggressive Politik bei.
-   Recherche: Mishief Reef incident
    
  - Der Unterschied zwischen China und anderen Ländern, die untereinander ebenfalls
    überlappende Grenzen haben, besteht darin, dass andere früher und zu größerem
