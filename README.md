@@ -119,3 +119,10 @@ sich China hinweg.
     - http://www.essay.uk.com/essays/history/essay-the-south-china-sea-conflict/
     - http://www.zeit.de/politik/ausland/2016-07/china-hat-keinen-gebietsanspruch-auf-inseln-im-suedchinesischen-meer
     - http://www.zeit.de/politik/ausland/2016-07/china-philippinen-den-haag-schiedshof-suedchinesisches-meer
+
+ - Strategische Machtinteressen
+    - Arte Doku, Inselkrieg im Chinesischen Meer oder warum unsere Zivilisation am Ende ist
+      https://www.youtube.com/watch?v=X8aNyS745y4&t=55s
+    - https://en.wikipedia.org/wiki/South_China_Sea
+    - Vox,  Why China is building islands in the South China Sea 
+      https://www.youtube.com/watch?v=luTPMHC7zHY
