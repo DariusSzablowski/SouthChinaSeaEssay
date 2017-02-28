@@ -19,9 +19,9 @@ geometry:
 
 ![Die Gebietsansprüche im Südchinesischen Meer](South_China_Sea_claims_map.jpg){ height=80% }
 
-# Ein Überblick über die bisherige Lage
-
 \clearpage
+
+# Ein Überblick über die bisherige Lage
 
 ## Geschichtliches und alte Verträge
 
@@ -36,7 +36,7 @@ Vietnam unter französischer Kolonialherrschaft standen. Außerdem wurden diese 
 nach dem Ende des zweiten Weltkrieges auch an Vietnam zurückgegeben. 
 Die zuerst friedliche Aufteilung der Inseln begann um 1970. Das bisher einzige Gefecht
 gab es 1974 als China die Paracel Inseln unter seine Kontrolle brachte, 
-die sie auch immernoch besitzen.
+die sie auch immer noch besitzen.
 
 Ab 1990 gab es multilaterale Gespräche zwischen Mitgliedern von ASEAN (dem Verband 
 Südostasiatischer Nationen), da bilaterale Gespräche schnell zu Spannungen
@@ -46,11 +46,15 @@ Beilegung des Konfliktes interessiert sei, allerdings bilaterale Gespräche vorz
 Außerdem behielt es trotz Beteuerungen eine aggressive Außenpolitik bei und nahm zum Beispiel
 1994 das Meiji Jiao Atoll, das Teil der Spratly Inseln ist, ein.
 
-Jedes Land hat laut Seerechtsübereinkommen der Vereinten Nationen es eine 
-Ausschließliche Wirtschaftszone von 370 km um seine Küsten herum, 
+Jedes Land besitzt laut dem Seerechtsübereinkommen der Vereinten Nationen von 1994 eine 
+Ausschließliche Wirtschaftszone von 370 km um seine Küsten herum,
 in der es unbeschränkt Ressourcen ausbeuten darf.
 Dieses gilt auch für bewohnbare Inseln, nicht aber für Felsen.
-Diese Regel gilt zwar auch für Inseln, nicht aber für Felsen und so entschied 2016 der Ständige Schiedshof in Den Haag das Chinas Neun-Striche-Linie keine Legitimität besitzt.
+Probleme ergeben sich daher vor allem aus überschneidenden Zonen, wie sie in der Gegend
+(siehe Karte auf dem Deckblatt) existieren. Hierbei beansprucht China aber nach der 
+Neun-Striche-Linie ein Areal, dass sie versuchen mit historischen Argumenten zu stützen.
+Der Ständige Schiedshof in Den Haag entschied 2016 jedoch das China keinen 
+legitimen Anspruch auf dieses Gebiet besitzt. Peking erkennt das Urteil nicht an.
 
 ## Strategische Machtinteressen
  
@@ -109,37 +113,3 @@ sich China hinweg.
     - https://en.wikipedia.org/wiki/Philippines_v._China
     - http://www.zeit.de/politik/ausland/2016-07/china-philippinen-den-haag-schiedshof-suedchinesisches-meer
     - http://www.zeit.de/politik/ausland/2016-07/china-hat-keinen-gebietsanspruch-auf-inseln-im-suedchinesischen-meer
-
-# Notizen
-
- - Vietnam hat diesen Standpunkt weiter beibehalten, obwohl diese seit
-   1974 von China kontrolliert werden. Seitdem gab es keine Gefechte.
-   
- - Der Unterschied zwischen China und anderen Ländern, die untereinander ebenfalls
-   überlappende Grenzen haben, besteht darin, dass andere früher und zu größerem
-   Erfolg in die Gespräche einstiegen. Zum Beispiel führte der Konflikt um das Korallenriff
-   Terumba Semarang Barat Kecil zwischen Brunei, Malaysia und den Philippinen zu keinen
-   militärischen Auseinandersetzungen.
-   
- - China ist der militärischen Präsenz der USA gegenüber feindlich eingestellt
-   und versucht sie zu schwächen. So kam es 2009 zu einem Zusammenstoß von Chinesischen
-   und US-amerikanischen Schiffen. Dieses ist ein weiterer Grund zur Besorgnis für vielen
-   Anreinerstaaten, da die USA ein wichtiger Verbündeter, etwa der Philippinen ist
-   und unteranderem auch explizit Zugang zu deren Gebiet hat.
-   Recherche: Impeccable vessel US Navy
-
- - Probleme mit Chinesischen Fischern.
- 
- - 2014 Eskalation bei den Paracel Inseln: Chinesischer Ölbohrturm und
-   Aggressionen gegen Vietnamesische Schiffe (-> The Guardian).
-   Chinesisches Schiff wird nahe den Spratly Inseln von den Philippinen gestoppt.
-   Dieses führte zu vermehrter internationaler Aufmerksamkeit.
-   
- - Chinesischer Militär ist in der Region aktiv um dem Öhlbohrturm zu schützen.
-   Andere Schiffe die versuchten die Gegend zu durchqueren, wurden vertrieben.
-   Hierbei sieht China unteranderem auch Vietnam als Aggressor, da sie die Inseln
-   als chinesisches Territorium betrachten.
-
- - Um weitere Konflikte zu vermeiden, hat China besagten Öhlbohrturm aus der Gegend
-   entfernt, aber ihr eigenwilliges Verhalten hat die Spannungen nur erhöht.
-
