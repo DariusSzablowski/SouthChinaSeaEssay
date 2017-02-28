@@ -17,7 +17,7 @@ geometry:
  - margin=3cm
 ---
 
-![Die Gebietsansprüche im Südchinesischen Meer](South_China_Sea_claims_map.jpg){ height=80% }
+![Die Gebietsansprüche im Südchinesischen Meer](South_China_Sea_claims_map.jpg){ height=95% }
 
 \clearpage
 
@@ -105,11 +105,17 @@ sich China hinweg.
 
 # Quellen 
 
- - Anton:
+ - Geschichtliches und alte Verträge
     - http://www.essay.uk.com/essays/history/essay-the-south-china-sea-conflict/
     - http://blogs.reuters.com/great-debate/2015/06/09/everything-you-need-to-know-about-the-south-china-sea-conflict-in-under-five-minutes/
     - https://de.wikipedia.org/wiki/ASEAN
     - https://en.wikipedia.org/wiki/Territorial_disputes_in_the_South_China_Sea
     - https://en.wikipedia.org/wiki/Philippines_v._China
+    - https://en.wikipedia.org/wiki/Nine-Dash_Line
+    - https://de.wikipedia.org/wiki/Seerechts%C3%BCbereinkommen
+    - https://en.wikipedia.org/wiki/United_Nations_Convention_on_the_Law_of_the_Sea
+    - https://de.wikipedia.org/wiki/Terumbu_Semarang_Barat_Kecil
+    - https://en.wikipedia.org/wiki/Mischief_Reef
+    - https://de.wikipedia.org/wiki/Vietnam
     - http://www.zeit.de/politik/ausland/2016-07/china-philippinen-den-haag-schiedshof-suedchinesisches-meer
     - http://www.zeit.de/politik/ausland/2016-07/china-hat-keinen-gebietsanspruch-auf-inseln-im-suedchinesischen-meer
