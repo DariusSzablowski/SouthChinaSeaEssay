@@ -111,14 +111,14 @@ sich China hinweg.
    Südostasiatischer Nationen), da bilaterale Gespräche schnell zu Spannungen
    mit den nicht an den Gesprächen beteiligten Nationen führen könnten und
    außerdem Chinas Machtposition stärken würden. An diesen nahm China jedoch nicht teil.
-   <!-- Nahm China an den Gesprächen teil? -> Nochmal recherchieren! -->
+   Recherche: Nahm China an den Gesprächen teil? -> Nochmal recherchieren!
   
  - China nahm an diesen Gesprächen zuerst nicht teil, erklärte dann aber noch im selben
    Jahr das es an der Beilegung des Konfliktes interessiert sei. Allerdings würden 
    sie bilaterale Gespräche vorziehen und sähen die multilateralen Verhandlungen als
    nicht-bindende Beratungen. 1995 gab China an, den gesamten Konflikt durch 
    friedliche Diskussion beilegen zu wollen, behielt aber eine aggressive Politik bei.
-   <!-- Mishief Reef incident -->
+   Recherche: Mishief Reef incident
    
  - Der Unterschied zwischen China und anderen Ländern, die untereinander ebenfalls
    überlappende Grenzen haben, besteht darin, dass andere früher und zu größerem
@@ -131,7 +131,7 @@ sich China hinweg.
    und US-amerikanischen Schiffen. Dieses ist ein weiterer Grund zur Besorgnis für vielen
    Anreinerstaaten, da die USA ein wichtiger Verbündeter, etwa der Philippinen ist
    und unteranderem auch explizit Zugang zu deren Gebiet hat.
-   <!-- Impeccable vessel US Navy -->
+   Recherche: Impeccable vessel US Navy
 
  - Probleme mit Chinesischen Fischern.
  
