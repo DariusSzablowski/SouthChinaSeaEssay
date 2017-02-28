@@ -17,9 +17,19 @@ geometry:
  - margin=3cm
 ---
 
+![Die Gebietsansprüche im Südchinesischen Meer](South_China_Sea_claims_map.jpg){ height=95% }
+
+\clearpage
+
 # Ein Überblick über die bisherige Lage
 
 ## Geschichtliches und alte Verträge
+
+Die Inseln im Südchinesische Meer waren die längste Zeit unbewohnt und 
+obwohl es alte chinesische Aufzeichnungen über sie gibt und altertümliche chinesische
+Objekte in der Gegend gefunden wurden, beginnt die Geschichte des Konfliktes erst nach dem
+zweiten Weltkrieg. Hierbei geht es vor allem um zwei Inselgruppen, die Paracel
+und die Spratly Inseln.
 
 
 
@@ -85,7 +95,7 @@ sich China hinweg.
  - 1947: China attackiert Vietnamesische Streitkräfte wg. Paracel-Inseln
      - Strategische Machtinteressen
 
- - UN Seerecht -> 200 km Wirtschaftszone, auch um Inseln herum (-> hier nur 12 Meilen?).
+ - UN Seerecht -> 370 km Wirtschaftszone, auch um Inseln herum (-> hier nur 12 Meilen?).
    Ob dieses auch für unbewohnte Korallenriffe und Felsbrocken gilt, ist nicht definiert.
    Außerdem ist die Frage von sich überschneidenden Wirtschaftszonen ein Problem.
 
