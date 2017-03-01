@@ -131,14 +131,13 @@ Wie bereits dargelegt, ist Chinas Anspruch nach internationalem Seerechtsüberei
 nur dann legitim, wenn
  
   1. Es sich bei den Inselgruppen tatsächlich um bewohnbare Inseln und nicht um Felsen
-     oder Atolle handelt.
+     oder Atolle handelt und
   2. Sie diese zuerst entdeckt oder besiedelt haben.
 
-Der Ständige Gerichtshof in Den Haag beschloss jedoch wie schon gesagt, 
-dass China keinen Anspruch auf dieses Gebiet besitzt und auch wir sind der
-Meinung, das es sich nicht um bewohnbare Inseln handelt. Vor allem führen Chinas 
-durch Sandaufschüttungen künstlich hergestellte Inseln, nicht zu legitimen Besitzanspruchen
-durch China.
+Der Ständige Gerichtshof in Den Haag urteilte jedoch wie schon gesagt, 
+dass China keinen Anspruch auf dieses Gebiet besitzt und auch wir sind dieser
+Meinung, da es sich nicht um bewohnbare Inseln handelt. Vor allem führen Chinas 
+durch Sandaufschüttungen künstlich hergestellte Inseln nicht zu legitimen Besitzanspruchen.
 
 Es ist aber natürlich möglich zu argumentieren, dass das Gericht nicht zuständig ist, oder auch, dass die Richter nicht unabhängig
 entscheiden konnten, da Chinas Ansprüche starke Auswirkungen auf die Machtposition
@@ -150,7 +149,7 @@ Position der Philippinen ausgesprochen haben.
 
 Allerdings halten diese Argumentation für falsch und sind der Meinung, dass
 in diesem Fall das Seerechtsübereinkommen uneingeschränkt Anwendung finden sollte,
-dass heißt, Chinas Ansprüche fast vollständig illegitim sind.
+dass heißt, Chinas Ansprüche vollständig illegitim sind.
 
 # Quellen 
 
