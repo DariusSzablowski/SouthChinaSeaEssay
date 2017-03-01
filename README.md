@@ -25,36 +25,60 @@ geometry:
 
 ## Geschichtliches und alte Verträge
 
-Die Inseln im Südchinesische Meer waren die längste Zeit unbewohnt und 
-obwohl es alte chinesische Aufzeichnungen über sie gibt und altertümliche chinesische
-Objekte in der Gegend gefunden wurden, beginnt die Geschichte des Konfliktes erst nach dem
-zweiten Weltkrieg. Hierbei geht es vor allem um zwei Inselgruppen, die Paracel Inseln,
-die im Norden liegen und von China, Vietnam und Taiwan beansprucht werden, sowied ie Spratly Inseln, die im Süden liegen und von Brunei, den Philippinen und Malaysia beansprucht werden.
+Die Inseln im Südchinesische Meer waren die längste Zeit unbewohnt
+und obwohl es alte chinesische Aufzeichnungen über sie gibt und
+altertümliche chinesische Objekte in der Gegend gefunden wurden, beginnt
+die Geschichte des Konfliktes erst nach dem zweiten Weltkrieg. Hierbei
+geht es vor allem um zwei Inselgruppen, die Paracel Inseln, die im Norden
+liegen und von China, Vietnam und Taiwan beansprucht werden, sowie die
+Spratly Inseln, die im Süden liegen und von Brunei, den Philippinen
+und Malaysia beansprucht werden.
 
-Nach Vietnams Auffassung sind die Paracel Inseln Teil ihres Territoriums, da sie wie
-Vietnam unter französischer Kolonialherrschaft standen. Außerdem wurden diese von Frankreich
-nach dem Ende des zweiten Weltkrieges auch an Vietnam zurückgegeben. 
-Die zuerst friedliche Aufteilung der Inseln begann um 1970. Das bisher einzige Gefecht
-gab es 1974 als China die Paracel Inseln unter seine Kontrolle brachte, 
-die sie auch immer noch besitzen.
+Nach Vietnams Auffassung sind die Paracel Inseln Teil ihres
+Territoriums, da sie wie Vietnam unter französischer Kolonialherrschaft
+standen. Außerdem wurden diese von Frankreich nach dem Ende des zweiten
+Weltkrieges auch an Vietnam zurückgegeben. Die zuerst friedliche
+Aufteilung der Inseln begann um 1970. Das bisher einzige Gefecht gab
+es 1974 als China die Paracel Inseln unter seine Kontrolle brachte.
+China besitzt diese Inseln noch heute.
 
-Ab 1990 gab es multilaterale Gespräche zwischen Mitgliedern von ASEAN (dem Verband 
-Südostasiatischer Nationen), da bilaterale Gespräche schnell zu Spannungen
-mit den nicht an den Gesprächen beteiligten Nationen führen könnten und
-außerdem Chinas Machtposition stärken würden. China erklärte, dass es an der 
-Beilegung des Konfliktes interessiert sei, allerdings bilaterale Gespräche vorziehen würde.
-Außerdem behielt es trotz Beteuerungen eine aggressive Außenpolitik bei und nahm zum Beispiel
-1994 das Meiji Jiao Atoll, das Teil der Spratly Inseln ist, ein.
+Ab 1990 gab es multilaterale Gespräche zwischen Mitgliedern von ASEAN
+(dem Verband Südostasiatischer Nationen), da bilaterale Gespräche
+schnell zu Spannungen mit den nicht an den Gesprächen beteiligten
+Nationen führen könnten und außerdem Chinas Machtposition stärken
+würden. China erklärte, dass es an der Beilegung des Konfliktes
+interessiert sei, allerdings bilaterale Gespräche vorziehen würde.
+Außerdem behielt es trotz Beteuerungen eine aggressive Außenpolitik
+bei und nahm zum Beispiel 1994 das Meiji Jiao Atoll, das Teil der Spratly
+Inseln ist, ein.
 
-Jedes Land besitzt laut dem Seerechtsübereinkommen der Vereinten Nationen von 1994 eine 
-Ausschließliche Wirtschaftszone von 370 km um seine Küsten herum,
-in der es unbeschränkt Ressourcen ausbeuten darf.
-Dieses gilt auch für bewohnbare Inseln, nicht aber für Felsen.
-Probleme ergeben sich daher vor allem aus überschneidenden Zonen, wie sie in der Gegend
-(siehe Karte auf dem Deckblatt) existieren. Hierbei beansprucht China aber nach der 
-Neun-Striche-Linie ein Areal, dass sie versuchen mit historischen Argumenten zu stützen.
-Der Ständige Schiedshof in Den Haag entschied 2016 jedoch das China keinen 
-legitimen Anspruch auf dieses Gebiet besitzt. Peking erkennt das Urteil nicht an.
+Seitdem kam es zu weiteren Aggressionen. So wurde 2009 zum Beispiel
+das Überwachungsschiff USNS Impeccable (T-AGOS-23) der US Marine in
+internationalen Gewässern in der Nähe der chinesischen Insel Hainan
+zum Halt gezwungen und durch chinesische Schiffe beschattet, deren
+Besatzungen auch versuchten das Schleppsonar zu beschädigen.
+
+Weiterere Vorfälle ereigneten sich 2014 als China eine Ölplattform 
+nahe den Paracel Inseln, die von Vietnam beansprucht werden (siehe oben),
+installierte. Dies führte zu Konflikten mit vietnamesischen
+Schiffen, die nahe der Bohrplatform vorbeifuhren, woraufhin China erklärte
+diese hätten die Bohrungen behindert. Zusammen mit teilweise gewaltsamen
+Protesten der vietnamesischen Bevölkerung gegen China, führte dies zu 
+internationalen Befürchtungen, ein Krieg sei am entstehen.
+Um die Ölplattform zu schützen verlegte China auch Militär in die Region,
+verkündete aber noch im selben Jahr die Ölplattform zu verlegen.
+
+Rechtlich ist die Frage kompliziert. Denn jedes Land besitzt laut dem 
+Seerechtsübereinkommen der Vereinten Nationen
+von 1994 eine Ausschließliche Wirtschaftszone von 370 km um seine Küsten
+herum, in der es unbeschränkt Ressourcen ausbeuten darf. Dieses gilt
+auch für bewohnbare Inseln, nicht aber für Felsen. Probleme ergeben
+sich daher vor allem aus überschneidenden Zonen, wie sie in der Gegend
+(siehe Karte auf dem Deckblatt) existieren. Hierbei beansprucht China
+aber nach der Neun-Striche-Linie ein Areal, dass sie versuchen mit rein
+historischen Argumenten zu rechtfertigen. Der Ständige Schiedshof in Den
+Haag entschied 2016 das China keinen legitimen Anspruch auf dieses
+Gebiet besitzt. Peking erkennt das Urteil jedoch nicht an.
 
 ## Strategische Machtinteressen
  
@@ -95,8 +119,6 @@ sich China hinweg.
 
 ## Neuere Entwicklungen (Trump, Duterte)
 
-# Wie wird sich das entwickeln?
-
 
 
 # Mögliche Lösungen
@@ -110,6 +132,7 @@ sich China hinweg.
     - https://de.wikipedia.org/wiki/ASEAN
     - https://de.wikipedia.org/wiki/Seerechts%C3%BCbereinkommen
     - https://de.wikipedia.org/wiki/Terumbu_Semarang_Barat_Kecil
+    - https://de.wikipedia.org/wiki/USNS_Impeccable_(T-AGOS-23)
     - https://de.wikipedia.org/wiki/Vietnam
     - https://en.wikipedia.org/wiki/Mischief_Reef
     - https://en.wikipedia.org/wiki/Nine-Dash_Line
@@ -117,6 +140,7 @@ sich China hinweg.
     - https://en.wikipedia.org/wiki/Territorial_disputes_in_the_South_China_Sea
     - https://en.wikipedia.org/wiki/United_Nations_Convention_on_the_Law_of_the_Sea
     - http://www.essay.uk.com/essays/history/essay-the-south-china-sea-conflict/
+    - https://www.theguardian.com/world/2014/jul/16/beijing-removes-south-china-sea-oil-rig
     - http://www.zeit.de/politik/ausland/2016-07/china-hat-keinen-gebietsanspruch-auf-inseln-im-suedchinesischen-meer
     - http://www.zeit.de/politik/ausland/2016-07/china-philippinen-den-haag-schiedshof-suedchinesisches-meer
 
